@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br>🚀 I’m an **Cloud Engineer** focused on designing, automating, and optimizing secure AWS cloud infrastructure for production environments.<br><br>☁️ I specialize in building **scalable, resilient, and cost-optimized architectures** using Terraform, CloudFormation, and cloud-native AWS services.<br><br>⚙️ Currently working on:<br><br>* Infrastructure as Code (Terraform modules & reusable architectures)<br>* CI/CD automation with GitHub Actions & AWS CodePipeline<br>* Containerized deployments using Docker, ECS & Fargate<br>* Secure multi-AZ & multi-region cloud architectures<br>* GenAI integrations using AWS Bedrock<br><br>🤝 I’m looking to collaborate on:<br><br>* DevOps automation platforms<br>* Infrastructure standardization<br>* AI-powered cloud applications<br><br>🛠️ I have strong hands-on experience with:<br><br>* AWS (EC2, S3, RDS, Lambda, VPC, IAM, Route 53, CloudWatch, ECS, EKS)<br>* Infrastructure as Code (Terraform & CloudFormation)<br>* Monitoring & Observability (CloudWatch, Prometheus, Grafana)<br>* Networking & Security (VPC design, IAM policies, WAF, Shield, Secrets Manager)<br>* Cost Optimization<br><br>🌱 Currently learning:<br><br>* Advanced Kubernetes (EKS)<br>* Distributed system design patterns<br>* High-scale architecture optimization<br><br>🎤 I’ve represented my organization at major industry events including tech summits, where I demonstrated live Generative AI applications and explained complex cloud architectures to both technical and non-technical audiences.<br><br>💬 Ask me about:<br>AWS Architecture | DevOps Pipelines | Terraform Best Practices | Cloud Security | Cost Optimization | Production Debugging | Generative AI on AWS<br><br>⚡ Fun fact:<br>I enjoy designing architecture diagrams as much as writing infrastructure code — and I love simplifying complex systems for others.<br>
 
-<!--
-**ashutoshdeshmukh20/ashutoshdeshmukh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshadeshmukh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ashutosh.deshmukh20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.deshmukh20@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashutoshdeshmukh20&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashutoshdeshmukh20&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdeshmukh20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashutoshdeshmukh20&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ashutoshdeshmukh20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
