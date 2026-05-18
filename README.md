@@ -96,35 +96,6 @@ I enjoy designing architecture diagrams as much as writing infrastructure code �
 
 ---
 
-# 📊 GitHub Stats
-
-> ⚠️ To include private repository contributions:
->
-> - Enable **"Include private contributions on my profile"** in GitHub settings
-> - Use a self-hosted GitHub Readme Stats deployment with `GH_TOKEN`
-> - Public widgets cannot fully expose private repository names because of GitHub API restrictions
-
-![](https://github-readme-stats.vercel.app/api?username=ashutoshdeshmukh20&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ashutoshdeshmukh20&theme=default&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdeshmukh20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🔝 Top Contributed Repo
-
-> ⚠️ Private organization repositories may not appear in public contribution cards.
->
-> For full private contribution support:
-> - Self-host GitHub Readme Stats
-> - Use a GitHub PAT with `repo` scope
-> - Deploy using Vercel or Docker
-
-![](https://github-contributor-stats.vercel.app/api?username=ashutoshdeshmukh20&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 # 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutoshdeshmukh20&theme=github-compact)](https://github.com/ashutoshdeshmukh20)
@@ -134,18 +105,6 @@ I enjoy designing architecture diagrams as much as writing infrastructure code �
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ashutoshdeshmukh20&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-# 🔥 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=ashutoshdeshmukh20&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ---
 
