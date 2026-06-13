@@ -134,7 +134,19 @@ I enjoy designing architecture diagrams as much as writing infrastructure code �
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashutoshdeshmukh20/ashutoshdeshmukh20/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutoshdeshmukh20/ashutoshdeshmukh20/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <b>Journey</b><br>
+  🚀 2022 • Cloud Engineering Started & AWS Learning<br>
+  ☁️ 2023 • Associate Cloud Engineer @ Whistlemind Technologies<br>
+  🏆 2024 • AWS Solutions Architect Professional Certified<br>
+  🤖 2025 • AWS Bedrock & Generative AI Solutions
+</p>
 
 # 🚀 Featured Areas
 
