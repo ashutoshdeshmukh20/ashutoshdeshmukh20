@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Cloud+Architect+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-purple?style=flat-square&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.E.%20Information%20Technology-purple?style=flat-square&logo=education&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 <p align="center">
@@ -13,6 +13,11 @@
   <a href="https://linkedin.com/in/ashutoshadeshmukh"><img src="https://img.shields.io/badge/LinkedIn-ashutoshadeshmukh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashutosh.deshmukh20@gmail.com"><img src="https://img.shields.io/badge/Email-ashutosh.deshmukh20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ashutoshdeshmukh20"><img src="https://img.shields.io/badge/GitHub-ashutoshdeshmukh20-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=ashutoshdeshmukh20&color=purple&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/ashutoshdeshmukh20?label=Followers&style=flat-square&color=purple" />
+  <img src="https://img.shields.io/github/stars/ashutoshdeshmukh20?style=flat-square&color=purple&label=Stars" />
 </p>
 
 ---
@@ -66,6 +71,17 @@ Driven by a product-engineering mindset, I bridge the gap between complex backen
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Systems Manager](https://img.shields.io/badge/AWS_SSM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS Config](https://img.shields.io/badge/AWS_Config-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Shield](https://img.shields.io/badge/AWS_Shield-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Akamai](https://img.shields.io/badge/Akamai-0099FF?style=for-the-badge&logo=akamai&logoColor=white)
+![AWS VPN](https://img.shields.io/badge/AWS_VPN-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -91,15 +107,15 @@ An enterprise-grade infrastructure-as-code repository designed to deploy a zero-
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Terraform, AWS IAM, AWS GuardDuty, Security Hub, AWS Lambda, Python |
+| **Stack** | Terraform, AWS Config, AWS IAM, Security Hub, AWS Lambda, Python, GitHub Actions |
 | **Scale** | Deployed across 3 AWS Regions, managing 500+ cloud resources automatically. |
-| **Performance** | Infrastructure provisioning completes within 8 minutes; drift detection runs hourly. |
-| **Security** | 100% compliant with CIS AWS Foundations Benchmark; 0% root credential usage. |
-| **Impact** | Reduced compliance auditing overhead by 70% and eliminated manual VPC setup errors. |
+| **Performance** | Infrastructure provisioning completes within 8 minutes; compliance checks run continuously. |
+| **Security** | 100% compliant with CIS AWS Foundations Benchmark; secure VPC configurations with NAT Gateways. |
+| **Impact** | Reduced compliance auditing overhead by 70% and eliminated manual security configuration errors. |
 | **Repository** | [CloudSecure-IaC](https://github.com/ashutoshdeshmukh20/cloudsecure-iac) |
 
 ### Engineering Walkthrough
-The system utilizes parameterized Terraform modules to bootstrap landing zones in a multi-account organization. A central Lambda function listens to EventBridge drift events, automatically rolling back unauthorized changes to Security Groups or IAM Policies. Monitoring metrics are exported to Grafana dashboards for executive review.
+The system utilizes parameterized Terraform modules to bootstrap landing zones in a multi-account organization. A central Lambda function listens to EventBridge compliance events from AWS Config, automatically alerting or rolling back unauthorized changes to Security Groups, Route Tables, NAT Gateways, or IAM Policies.
 </details>
 
 <details>
@@ -126,25 +142,28 @@ Built using a containerized FastAPI application deployed on AWS Fargate. It inte
 
 ## 💼 Work Experience
 
-### **Senior Cloud & DevOps Engineer** | *Enterprise Tech Solutions*
-**Jan 2024 – Present**
-*Leading cloud infrastructure automation, security compliance, and platform engineering for high-availability enterprise services.*
-- 🚀 Engineered and migrated 40+ legacy services to a containerized multi-AZ Amazon ECS/EKS architecture, improving uptime to 99.99%.
-- ⚙️ Developed and standardized reusable Terraform modules used by 8 internal engineering teams, cutting deployment lifecycle time by 45%.
-- 🔒 Implemented strict AWS IAM least-privilege policies and AWS KMS customer-managed key encryption across all corporate S3 buckets.
-- ⚡ Optimized cloud resource utilization and instance scaling schedules, resulting in a monthly AWS bill reduction of 30%.
-- `AWS` `Terraform` `Kubernetes` `Docker` `ECS` `GitHub Actions` `Prometheus` `Python`
+### **Associate Cloud Engineer** | *Whistlemind Technologies*
+**July 2023 – Present**
+*Designing, automating, and optimizing secure AWS cloud infrastructure for high-availability enterprise environments.*
+- 🚀 Designed and automated AWS infrastructure using Terraform, CloudFormation, Python, and Bash, enabling scalable and repeatable deployments.
+- ⚙️ Built and maintained CI/CD pipelines using GitHub Actions and AWS CodePipeline, improving deployment reliability and automation.
+- 🛡️ Deployed and managed containerized applications using Docker, ECS, EKS, and AWS Fargate.
+- 📊 Implemented monitoring and logging using AWS CloudWatch, AWS Config, Prometheus, and Grafana, with centralized audit logging via AWS CloudTrail.
+- 🔒 Strengthened cloud security and compliance through IAM policies, VPC security design, AWS WAF, Shield, Secrets Manager, and Parameter Store.
+- ⚡ Led migration of CDN from Akamai to AWS CloudFront, improving latency, performance, and reducing operational costs.
+- 🎤 Represented company at India Digital Summit and Bangalore Tech Summit, delivering live Generative AI (GenAI) demos and explaining architectures.
+- `AWS` `Terraform` `Docker` `ECS` `EKS` `GitHub Actions` `Prometheus` `Grafana` `AWS Bedrock` `Python` `CloudFront`
 
 ---
 
-### **Cloud Solutions Engineer** | *InnoCloud Technologies*
-**Aug 2021 – Dec 2023**
-*Focused on building serverless backend services, writing infrastructure code, and setting up automated CI/CD pipelines.*
-- 🛡️ Built event-driven compliance automation using AWS Config, Lambda, and DynamoDB to detect and auto-remediate security gaps.
-- 🔄 Configured robust GitHub Actions workflows for continuous integration, reducing automated unit test runtime by 50% using test caching.
-- 📊 Set up unified monitoring dashboards with Prometheus, Grafana, and AWS CloudWatch, decreasing MTTR (Mean Time to Resolution) by 35%.
-- 🤖 Deployed the initial POC for an internal GenAI chatbot utilizing AWS Bedrock and Python FastAPI.
-- `AWS` `Terraform` `Docker` `GitHub Actions` `Grafana` `FastAPI` `Python` `Bash`
+### **AWS Cloud Engineer Trainee** | *Cravita Technologies*
+**Dec 2022 – July 2023**
+*Focused on assisting in AWS deployments, building CI/CD automation, and configuring logging.*
+- 🛡️ Assisted in deploying and managing AWS resources like EC2, S3, RDS, and Lambda using Terraform and CloudFormation.
+- 🔄 Supported CI/CD pipelines using Jenkins, GitHub Actions, and AWS CodePipeline for automated deployments.
+- 📊 Configured AWS CloudWatch and CloudTrail for system monitoring, logging, and compliance tracking.
+- 🤖 Worked with IAM roles, policies, and VPC configurations to enhance security and networking.
+- `AWS` `Terraform` `Docker` `GitHub Actions` `Jenkins` `CloudWatch` `IAM` `VPC`
 
 ---
 
@@ -154,9 +173,9 @@ Built using a containerized FastAPI application deployed on AWS Fargate. It inte
 
 | Recognition | Details |
 | :---: | :--- |
-| **AWS Cloud Pioneer Award** | Recognized for outstanding performance in reducing AWS architecture operational costs by 30% organization-wide. |
-| **GenAI Hackathon Winner** | Secured 1st place among 50+ participants by building a serverless real-time document search engine using AWS Bedrock. |
-| **Top Contributor Certification** | Awarded for publishing reusable enterprise Terraform templates that simplified deployments across multiple product groups. |
+| **IDS & BTS Tech Presenter** | Represented Whistlemind Technologies at India Digital Summit and Bangalore Tech Summit, delivering live Generative AI demos. |
+| **Enterprise CDN Migration Lead** | Successfully migrated corporate CDN from Akamai to AWS CloudFront, improving latency and lowering operational costs. |
+| **AWS Compliance Automation** | Engineered real-time auto-remediation compliance monitoring using AWS Config, AWS Lambda, and DynamoDB. |
 
 </div>
 
@@ -175,7 +194,7 @@ Built using a containerized FastAPI application deployed on AWS Fargate. It inte
 - ![NPTEL Elite Gold - Cloud Computing](https://img.shields.io/badge/NPTEL_Cloud_Computing-Elite_Gold-blueviolet?style=flat-square)
 
 ### **Cisco**
-- ![CCNA Routing and Switching](https://img.shields.io/badge/Cisco_CCNA-017CAD?style=flat-square&logo=cisco&logoColor=white)
+- ![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-017CAD?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
@@ -193,7 +212,7 @@ Built using a containerized FastAPI application deployed on AWS Fargate. It inte
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshdeshmukh20&show_icons=true&theme=calm&bg_color=0d0d1e&title_color=9d4edd&icon_color=7b2cbf&text_color=e2e8f0&border_color=240046&border_radius=8" alt="Ashutosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshdeshmukh20&show_icons=true&theme=calm&bg_color=0d0d1e&title_color=9d4edd&icon_color=7b2cbf&text_color=e2e8f0&border_color=240046&border_radius=8&count_private=true" alt="Ashutosh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdeshmukh20&layout=compact&theme=calm&bg_color=0d0d1e&title_color=9d4edd&icon_color=7b2cbf&text_color=e2e8f0&border_color=240046&border_radius=8" alt="Top Languages" />
 </p>
 <p align="center">
