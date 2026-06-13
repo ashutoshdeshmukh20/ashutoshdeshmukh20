@@ -2,17 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,50:26a641,100:39d353&height=220&section=header&text=Ashutosh%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-216e39?style=flat-square&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-26a641?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-purple?style=flat-square&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://d3nas0c5oyfjda.cloudfront.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ashutosh.dev-216e39?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ashutoshadeshmukh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ashutoshadeshmukh-26a641?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashutosh.deshmukh20@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-ashutosh.deshmukh20%40gmail.com-39d353?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ashutoshdeshmukh20" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ashutoshdeshmukh20-006d32?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://d3nas0c5oyfjda.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-ashutosh.dev-7B2CBF?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ashutoshadeshmukh"><img src="https://img.shields.io/badge/LinkedIn-ashutoshadeshmukh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashutosh.deshmukh20@gmail.com"><img src="https://img.shields.io/badge/Email-ashutosh.deshmukh20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashutoshdeshmukh20"><img src="https://img.shields.io/badge/GitHub-ashutoshdeshmukh20-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -62,9 +62,9 @@ I enjoy designing architecture diagrams as much as writing infrastructure code â
 ---
 
 # ğŸŒ Connect With Me:
-<a href="https://linkedin.com/in/ashutoshadeshmukh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%2326a641.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@ashutosh.deshmukh20" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-%23216e39?logo=medium&logoColor=white" /></a>
-<a href="mailto:ashutosh.deshmukh20@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-%2339d353?logo=gmail&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshadeshmukh)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ashutosh.deshmukh20)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.deshmukh20@gmail.com)
 
 ---
 
@@ -116,18 +116,14 @@ I enjoy designing architecture diagrams as much as writing infrastructure code â
 ## ğŸ“ˆ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshdeshmukh20&show_icons=true&theme=calm&bg_color=0d0d1e&title_color=39d353&icon_color=26a641&text_color=e2e8f0&border_color=216e39&border_radius=8" alt="Ashutosh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdeshmukh20&layout=compact&theme=calm&bg_color=0d0d1e&title_color=39d353&icon_color=26a641&text_color=e2e8f0&border_color=216e39&border_radius=8" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdeshmukh20&theme=dark&background=0d0d1e&ring=39d353&fire=26a641&currRing=39d353&currFire=40c463&sideNums=e2e8f0&sideLabels=39d353&dates=e2e8f0&border=216e39&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdeshmukh20&theme=dark&background=0d0d1e&ring=9d4edd&fire=7b2cbf&currRing=4895ef&currFire=4895ef&sideNums=e2e8f0&sideLabels=9d4edd&dates=e2e8f0&border=240046&border_radius=8" alt="GitHub Streak" />
 </p>
 
 
 
 # ğŸ“ˆ Contribution Graph
 
-<a href="https://github.com/ashutoshdeshmukh20" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshdeshmukh20&theme=github-compact" alt="Ashutosh's github activity graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutoshdeshmukh20&theme=github-compact)](https://github.com/ashutoshdeshmukh20)
 
 ---
 
