@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3f37c9,7b2cbf,560bad,480ca8&height=220&section=header&text=Ashutosh%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Cloud+Architect+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-purple?style=flat-square&logo=education&logoColor=white" />
