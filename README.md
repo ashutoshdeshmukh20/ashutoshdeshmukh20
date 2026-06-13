@@ -116,7 +116,15 @@ I enjoy designing architecture diagrams as much as writing infrastructure code �
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutoshdeshmukh20&theme=github-compact)](https://github.com/ashutoshdeshmukh20)
 
----
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/ashutoshdeshmukh20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshdeshmukh20&bg_color=0d0d1e&color=9d4edd&line=7b2cbf&point=4895ef&theme=github-compact" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
 
 # 🏆 GitHub Trophies
 
