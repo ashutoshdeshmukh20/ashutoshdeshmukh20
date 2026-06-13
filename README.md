@@ -116,7 +116,6 @@ I enjoy designing architecture diagrams as much as writing infrastructure code â
 ## ðŸ“ˆ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshdeshmukh20&show_icons=true&theme=calm&bg_color=0d0d1e&title_color=9d4edd&icon_color=7b2cbf&text_color=e2e8f0&border_color=240046&border_radius=8" alt="Ashutosh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdeshmukh20&layout=compact&theme=calm&bg_color=0d0d1e&title_color=9d4edd&icon_color=7b2cbf&text_color=e2e8f0&border_color=240046&border_radius=8" alt="Top Languages" />
 </p>
 <p align="center">
