@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://github.com/ashutoshdeshmukh20"><img src="https://img.shields.io/badge/Portfolio-ashutosh.dev-7B2CBF?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://d3nas0c5oyfjda.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-ashutosh.dev-7B2CBF?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ashutoshadeshmukh"><img src="https://img.shields.io/badge/LinkedIn-ashutoshadeshmukh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashutosh.deshmukh20@gmail.com"><img src="https://img.shields.io/badge/Email-ashutosh.deshmukh20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ashutoshdeshmukh20"><img src="https://img.shields.io/badge/GitHub-ashutoshdeshmukh20-181717?style=flat-square&logo=github&logoColor=white" /></a>
