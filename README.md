@@ -1,8 +1,9 @@
 <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,50:26a641,100:39d353&height=220&section=header&text=Ashutosh%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=AWS+Cloud+%26+DevOps+Engineer" /></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AWS+Cloud+%26+DevOps+Engineer" /></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-purple?style=flat-square&logo=education&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" />
