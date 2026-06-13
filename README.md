@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3f37c9,7b2cbf,560bad,480ca8&height=220&section=header&text=Ashutosh%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Cloud+Architect+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-purple?style=flat-square&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://d3nas0c5oyfjda.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-ashutosh.dev-7B2CBF?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ashutoshadeshmukh"><img src="https://img.shields.io/badge/LinkedIn-ashutoshadeshmukh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashutosh.deshmukh20@gmail.com"><img src="https://img.shields.io/badge/Email-ashutosh.deshmukh20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashutoshdeshmukh20"><img src="https://img.shields.io/badge/GitHub-ashutoshdeshmukh20-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
 # 💫 About Me:
 🚀 I’m a **Cloud Engineer** focused on designing, automating, and optimizing secure AWS cloud infrastructure for production environments.
 
