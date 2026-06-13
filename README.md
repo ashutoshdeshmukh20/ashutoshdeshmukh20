@@ -16,8 +16,6 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/normal-badge/?username=ashutoshdeshmukh20&color=purple&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/ashutoshdeshmukh20?label=Followers&style=flat-square&color=purple" />
-  <img src="https://img.shields.io/github/stars/ashutoshdeshmukh20?style=flat-square&color=purple&label=Stars" />
 </p>
 
 ---
