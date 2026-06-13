@@ -129,6 +129,13 @@ I enjoy designing architecture diagrams as much as writing infrastructure code �
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutoshdeshmukh20/ashutoshdeshmukh20/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 # 🚀 Featured Areas
 
 - ☁️ AWS Cloud Architecture
