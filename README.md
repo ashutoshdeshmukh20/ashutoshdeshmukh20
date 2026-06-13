@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0e4429,006d32,26a641,39d353&height=220&section=header&text=Ashutosh%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,50:26a641,100:39d353&height=220&section=header&text=Ashutosh%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Automator;Generative+AI+Solutions+Builder" />
